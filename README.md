@@ -15,7 +15,6 @@ Practice:
     평소에 tdd를 하셧으면 tdd로 짜셔도 되고,  
     unit test를 짜면서 만드셨으면 unit test 가 있어도 되고,  
     test가 없어도 좋습니다  
-  
 */  
 
 아래 두 파일 보시면 됩니다.  
