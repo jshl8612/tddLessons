@@ -17,3 +17,6 @@ Practice:
     test가 없어도 좋습니다
 */
 
+아래 두 파일 보시면 됩니다.
+tddLessonWeek1/tddLessonWeek1/Money.swift
+tddLessonWeek1/tddLessonWeek1Tests/tddLessonWeek1Tests.swift
